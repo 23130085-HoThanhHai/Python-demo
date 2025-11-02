@@ -1,0 +1,33 @@
+-Cài đặt Django
+
+python -m pip install django
+
+-Xem version Django:
+
+django-admin --version
+
+
+-Tạo project mới:
+
+django-admin startproject mysite
+
+
+-Chạy server:
+
+python manage.py runserver
+
+
+-Đổi port:
+
+python manage.py runserver 6969
+
+
+-Tạo app mới:
+
+python manage.py startapp polls
+
+-Tạo cơ sở dữ liệu:
+ 
+ python manage.py migrate
+
+-- cài lại xampp, python , django 
