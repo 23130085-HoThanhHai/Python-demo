@@ -31,3 +31,4 @@ python manage.py startapp polls
  python manage.py migrate
 
 -- cài lại xampp, python , django 
+cài phiên bản django 4.2: pip install django==4.2
